@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\asus\\Desktop\\music_back\\log\\error\\.5629354f7852940477daa14eab474045a97c3f05-audit.json",
+    "files": [
+        {
+            "date": 1654396432188,
+            "name": "C:\\Users\\asus\\Desktop\\music_back\\log\\error\\2022-06-05.log",
+            "hash": "ca93b17130acc25461d7c9925e8cfbdd6058d9c94a56466490b906cc64d6f9f0"
+        },
+        {
+            "date": 1654565699009,
+            "name": "C:\\Users\\asus\\Desktop\\music_back\\log\\error\\2022-06-07.log",
+            "hash": "63d63e51e45ee319eed8436ec3cfd067f08e25aa6d8762cf89d0bf23f626c42b"
+        }
+    ],
+    "hashType": "sha256"
+}
