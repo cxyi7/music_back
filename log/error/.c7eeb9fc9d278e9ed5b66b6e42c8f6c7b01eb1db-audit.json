@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\.c7eeb9fc9d278e9ed5b66b6e42c8f6c7b01eb1db-audit.json",
+    "files": [
+        {
+            "date": 1686372398037,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-10.log",
+            "hash": "5c169619750b198c4cc6aa59f85d555c45e6f4e52c2ef10b046a844bd1c8524c"
+        },
+        {
+            "date": 1686550466010,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-12.log",
+            "hash": "c56114f6214900bf80b23a9daa852e3d8fe45e23330f08784b8353af74c83b34"
+        },
+        {
+            "date": 1686705961650,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-14.log",
+            "hash": "dda22ecc0046dbf93c7259cc558e9e9906e3450e587ac83dad8af7441080c6f5"
+        },
+        {
+            "date": 1686818569974,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-15.log",
+            "hash": "10872c5fd38844602fa466f1fcd7442f73a90ccfedc6f262b74a053d58551f8a"
+        },
+        {
+            "date": 1686880671048,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-16.log",
+            "hash": "c085a55676143c984c45563878ed6425639ece6abfc8881d292696978f763f99"
+        },
+        {
+            "date": 1687094590436,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-18.log",
+            "hash": "c88079a28e5436195bd41b6c883bf2a9d9fadbd7a42aad434c60e20154648ecd"
+        },
+        {
+            "date": 1687136451291,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-19.log",
+            "hash": "21a4eb5f8c54428163db2c8c13cb886b801da19b2cecd15125e27007b85b8837"
+        },
+        {
+            "date": 1687232201066,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\error\\2023-06-20.log",
+            "hash": "fae5f745a63b52f028bf419b9a3e4038f5d39b2cda57983c6b81148e67a557a4"
+        }
+    ],
+    "hashType": "sha256"
+}

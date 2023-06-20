@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\.2304063dee37c11e7acd119e5499b720c2446e55-audit.json",
+    "files": [
+        {
+            "date": 1686372398054,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-10.log",
+            "hash": "7398a8a5dcf359721d6f26426564106bf6dbc0c90f9698834a117f7ba9857d7e"
+        },
+        {
+            "date": 1686550466017,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-12.log",
+            "hash": "ad7961ebda254a32959ad134882506dca343e8c9683a77eb22d0f0325b54cbf1"
+        },
+        {
+            "date": 1686705961658,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-14.log",
+            "hash": "e621ab96904f657a5f78d0586b89b9c662500eed9f8596b4a624bd604990d018"
+        },
+        {
+            "date": 1686818569987,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-15.log",
+            "hash": "6394b10259af01529ed11e8fb7260d9768af16b0406b211a3b89b01a6398aa41"
+        },
+        {
+            "date": 1686880671076,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-16.log",
+            "hash": "d3e43e2e206f564622c6e85e425902ac863a02d40e81c27507332033295b2d97"
+        },
+        {
+            "date": 1687094590459,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-18.log",
+            "hash": "cbbafa051bc2b689991bc00a91c4c67818b40063a528df50b9565ce57fedadc1"
+        },
+        {
+            "date": 1687136451294,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-19.log",
+            "hash": "8fe1461480ed34e4feebbe6267f9230e5e1caaee48690e56470db66d266b126e"
+        },
+        {
+            "date": 1687232201111,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\info\\2023-06-20.log",
+            "hash": "27c755d29828b2a55998261f05748fedaff321d28d98505778c2b6a6723fda31"
+        }
+    ],
+    "hashType": "sha256"
+}

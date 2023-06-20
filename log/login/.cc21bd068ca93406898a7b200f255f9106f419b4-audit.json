@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\.cc21bd068ca93406898a7b200f255f9106f419b4-audit.json",
+    "files": [
+        {
+            "date": 1686372398060,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-10.log",
+            "hash": "a22c274739d4557e881619a77aa0c810935278e07950261d02c5ca768ea42c15"
+        },
+        {
+            "date": 1686550466020,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-12.log",
+            "hash": "f44f1f2fc44456292f833b8ec95810a26b87dea71237d240ffeb7e529f7652f9"
+        },
+        {
+            "date": 1686617807959,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-13.log",
+            "hash": "fd3ed2afb22f62141ff754ca708bb2c70ead1b8dc2d4ab3ed051f33e680cd8c1"
+        },
+        {
+            "date": 1686705961673,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-14.log",
+            "hash": "f206b18d45efb931a5b2c642a7bfdb729b9f586b8a4de97bb397470fcc19b538"
+        },
+        {
+            "date": 1686818570002,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-15.log",
+            "hash": "42bc8a32327418951cdbc84ad05a6e749dac84a9c6c969e30be4bda0f868e7ea"
+        },
+        {
+            "date": 1686880671079,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-16.log",
+            "hash": "7e77a8730f8e5bcb6f90bab62c47ca4762b5ac76d11c0af2c7808cec91c7a620"
+        },
+        {
+            "date": 1687094590482,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-18.log",
+            "hash": "03e9e2f70b4b18bdcaccf748ad4ef3e16a3b12367fe4f8c675907d804f3d61a1"
+        },
+        {
+            "date": 1687136451297,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-19.log",
+            "hash": "d29bb2d0830d4896fe7382bdd4a779d52147d860c080cd9971993450b859ee4c"
+        },
+        {
+            "date": 1687232201139,
+            "name": "D:\\Users\\Administrator\\Desktop\\music_back\\log\\login\\2023-06-20.log",
+            "hash": "b6ac6b0200c9c2a78e95dea1c70ff783a93f1d573f33bab5d7ea5d531584085b"
+        }
+    ],
+    "hashType": "sha256"
+}

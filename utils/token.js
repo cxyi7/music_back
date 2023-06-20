@@ -7,9 +7,13 @@ const { TOKEN_SECRET_KEY } = require('./constant');
 module.exports = {
   setToken(u_id) {
     return new Promise((resolve,reject) => {
-      const rule = {u_id}
-      const settoken = jwt.sign(rule, TOKEN_SECRET_KEY, { expiresIn: '4h' })
-      resolve(settoken)
+      try {
+        const rule = { u_id }
+        const settoken = 'Bearer ' + jwt.sign(rule,TOKEN_SECRET_KEY,{ expiresIn: '4h' })
+        resolve(settoken)
+      } catch (error) {
+        reject(error)
+      }
     })
   }
 }
